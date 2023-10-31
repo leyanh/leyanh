@@ -57,7 +57,6 @@
                 alt="nodejs" width="40" height="40" />
         </a>
     </p>
-
     <h2>Database</h2>
     <p>
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
@@ -69,7 +68,6 @@
                 alt="mysql" width="40" height="40" />
         </a>
     </p>
-
     <h2>Software</h2>
     <p>
         <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
@@ -84,8 +82,6 @@
             </a>
         </a>
     </p>
-
 </div>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Bluelagoon coffee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Bluelagoon coffee" /></a></p><br><br>
